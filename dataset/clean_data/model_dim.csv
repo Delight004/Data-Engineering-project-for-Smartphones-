@@ -1,0 +1,981 @@
+ModelID,Model,Os
+0,OnePlus 11 5G,android
+1,OnePlus Nord CE 2 Lite 5G,android
+2,Samsung Galaxy A14 5G,android
+3,Motorola Moto G62 5G,android
+4,Realme 10 Pro Plus,android
+5,Samsung Galaxy F23 5G 6GB RAM  128GB,android
+6,Apple iPhone 14,ios
+7,Xiaomi Redmi Note 12 Pro Plus,android
+8,Nothing Phone 1,android
+9,OnePlus Nord 2T 5G,android
+10,Realme 10 Pro,android
+11,Oppo A78,android
+12,Xiaomi Redmi Note 12 Pro 5G,android
+13,Vivo T1 5G 6GB RAM  128GB,android
+14,Samsung Galaxy S23 Ultra 5G,android
+15,Apple iPhone 13,ios
+16,Vivo Y16,android
+17,OPPO Reno 9 Pro Plus,android
+18,OnePlus 10R 5G,android
+19,Vivo Y22,android
+20,OnePlus 11R,android
+21,Vivo V25 Pro 5G,android
+22,Poco X4 Pro 5G,android
+23,Xiaomi Redmi Note 12,android
+24,Vivo V26 Pro,android
+25,Samsung Galaxy S20 FE 5G,android
+26,OnePlus Nord CE 2 Lite 5G 8GB RAM  128GB,android
+27,Apple iPhone 14 Pro Max,ios
+28,Vivo V25 5G,android
+29,OnePlus 11 Pro,android
+30,Realme 10 Pro 8GB RAM  128GB,android
+31,Poco X5 Pro,android
+32,Vivo V27,android
+33,Apple iPhone 11,ios
+34,Samsung Galaxy M53 5G,android
+35,Samsung Galaxy S21 FE 5G,android
+36,Oppo Reno 8T,android
+37,Samsung Galaxy S22 Ultra 5G,android
+38,Xiaomi Redmi Note 12 Pro Max 5G,android
+39,OPPO Reno 9 5G,android
+40,OnePlus Nord CE 3 5G,android
+41,Xiaomi Redmi Note 11 Pro Plus 5G,android
+42,Motorola Edge 20 Fusion 5G,android
+43,Realme 10 Pro Plus 8GB RAM  256GB,android
+44,Vivo Y35,android
+45,Samsung Galaxy M33 5G,android
+46,Xiaomi Redmi Note 11,android
+47,Realme C33,android
+48,Vivo Y16 4GB RAM  64GB,android
+49,Samsung Galaxy A74 5G,android
+50,Samsung Galaxy A14 5G 6GB RAM  128GB,android
+51,iQOO Neo 7 5G,android
+52,Jio JioPhone 5G,android
+53,Motorola Moto G82 5G,android
+54,Realme 10,android
+55,Realme 9i 5G,android
+56,Apple iPhone 14 Plus,ios
+57,Xiaomi Redmi Note 10S,android
+58,Samsung Galaxy S23 Plus,android
+59,Motorola Moto G32,android
+60,Xiaomi Redmi Note 13 Pro 5G,android
+61,Vivo S16,android
+62,Samsung Galaxy A23,android
+63,Vivo Y22 6GB RAM  128GB,android
+64,Poco M4 Pro 5G 6GB RAM  128GB,android
+65,Vivo S16 Pro,android
+66,OnePlus 10 Pro 5G,android
+67,Xiaomi Redmi Note 12 Pro Plus 12GB RAM  256GB,android
+68,Samsung Galaxy F23 5G,android
+69,Oppo Find N Fold,other
+70,OPPO A17K,android
+71,Vivo V23 5G 12GB RAM  256GB,android
+72,iQOO Z6 Lite 5G,android
+73,OnePlus 10T,android
+74,Xiaomi Redmi Note 10T 5G 6GB RAM 128GB,android
+75,Gionee G13 Pro,other
+76,Apple iPhone 13 Pro,ios
+77,OPPO F22 Pro,android
+78,Samsung Galaxy A34 5G,android
+79,Xiaomi Redmi 10A 4GB RAM  64GB,android
+80,Motorola Moto G72 4G,android
+81,Samsung Galaxy A14 5G 8GB RAM  128GB,android
+82,Realme 9 5G,android
+83,Vivo T1 5G 8GB RAM  128GB,android
+84,Samsung Galaxy M13 5G,android
+85,Motorola Edge 30 5G,android
+86,Samsung Galaxy A23 5G,android
+87,OPPO K10 5G,android
+88,Xiaomi Redmi Note 11 6GB RAM  128GB,android
+89,Samsung Galaxy A73 5G,android
+90,Vivo Y21 2021,android
+91,OnePlus Ace Racing Edition 5G,android
+92,Motorola Moto G62 8GB RAM  128GB,android
+93,Vivo X90 Pro Plus 5G,android
+94,Realme C33 4GB RAM  64GB,android
+95,Realme 9i,android
+96,OPPO A17,android
+97,iQOO 11 5G,android
+98,Vivo X Fold 5G,android
+99,Vivo T1 5G,android
+100,Apple iPhone 14 Pro,ios
+101,Xiaomi Redmi Note 11 Pro Max 5G,android
+102,Motorola Moto S30 Pro,android
+103,Realme 10s,android
+104,OPPO F19 Pro Plus 5G,android
+105,Xiaomi 13 Pro 5G,android
+106,Vivo V27 Pro,android
+107,Samsung Galaxy S22 5G,android
+108,Vivo T1 44W 6GB RAM  128GB,android
+109,OnePlus 10R 5G 12GB RAM  256GB,android
+110,Tecno Phantom X2,android
+111,Apple iPhone 12,ios
+112,Xiaomi Redmi K50i 5G,android
+113,Samsung Galaxy A53 5G,android
+114,Xiaomi Redmi A1,android
+115,OPPO Reno8 5G,android
+116,Samsung Galaxy M53 5G 8GB RAM  128GB,android
+117,iQOO Z6 Pro 5G,android
+118,Tesla Pi Phone,android
+119,Samsung Galaxy S23,android
+120,Motorola Edge 30 Pro 5G,android
+121,OnePlus Nord 2T 12GB RAM  256GB,android
+122,Google Pixel 6A,android
+123,Infinix Note 12 Pro 5G,android
+124,Samsung Galaxy M33 5G 8GB RAM  128GB,android
+125,Vivo V23 5G,android
+126,Motorola Moto G42,android
+127,OnePlus Nord CE 2 Lite 5G 8GB RAM  256GB,android
+128,Samsung Galaxy A33 5G,android
+129,Google Pixel 7A,android
+130,Xiaomi Redmi 11 Prime 5G,android
+131,Xiaomi Redmi Note 10 Lite,android
+132,Motorola Moto E40,android
+133,Nothing Phone 1 8GB RAM  256GB,android
+134,Poco X4 Pro 5G 6GB RAM  128GB,android
+135,Xiaomi Redmi Note 11 Pro Plus 5G 8GB RAM  256GB,android
+136,Apple iPhone 11 128GB,ios
+137,Realme C35 6GB RAM  128GB,android
+138,OPPO K10,android
+139,iQOO Neo 6 5G,android
+140,iQOO Z6 5G,android
+141,OPPO Reno 9 Pro 5G,android
+142,Poco M4 Pro 5G,android
+143,Jio Phone 3,android
+144,OnePlus Clover,android
+145,Samsung Galaxy F04,android
+146,iQOO 7,android
+147,Samsung Galaxy M34 5G,android
+148,Xiaomi Redmi 10,android
+149,Apple iPhone 12 Mini,ios
+150,Xiaomi Redmi Note 12 6GB RAM  128GB,android
+151,Motorola Moto G52,android
+152,Apple iPhone 15 Pro Max,ios
+153,Oppo A98,android
+154,Infinix Zero 5G 2023,android
+155,Realme C30,android
+156,OPPO F21 Pro 5G,android
+157,Realme 11 Pro,android
+158,Oppo Find N2 5G,unknown
+159,Realme 9 4G,android
+160,Cola Phone,android
+161,Apple iPhone 13 Pro Max,ios
+162,Oppo Reno 10 Pro Plus,android
+163,Vivo X90 5G,android
+164,Samsung Galaxy F13,android
+165,Xiaomi Redmi Note 10S 6GB RAM  128GB,android
+166,Realme 10 8GB RAM  128GB,android
+167,iQOO 9 SE 5G,android
+168,Infinix Hot 20,android
+169,Letv Y1 Pro,android
+170,Xiaomi Redmi Note 13 Pro Max 5G,android
+171,Realme Narzo 50 Pro 5G,android
+172,OPPO A74 5G,android
+173,Apple iPhone 9,ios
+174,iQOO Z6 Lite 6GB RAM  128GB,android
+175,Xiaomi Redmi Note 11SE,android
+176,Realme Narzo 50,android
+177,Vivo Y75 5G,android
+178,Vivo V25 12GB RAM  256GB,android
+179,POCO M4 Pro 4G,android
+180,Infinix Zero Ultra,android
+181,Tecno Spark Go 2023,android
+182,Motorola Moto X40,android
+183,Samsung Galaxy F24 5G,android
+184,Realme 10 5G,android
+185,OnePlus Nord 3 5G,android
+186,Motorola Moto G82 8GB RAM  128GB,android
+187,iKall Z19 Pro,android
+188,LeEco S1 Pro,android
+189,Realme C2s,android
+190,Duoqin F22 Pro,android
+191,Samsung Galaxy M54 5G,android
+192,Nokia N73 5G,android
+193,Motorola Edge 30 Fusion 5G,android
+194,Realme C35,android
+195,OPPO Reno 8 Pro House of Dragon Edition,android
+196,OnePlus Nord CE 3 Lite 5G,android
+197,Poco X4 Pro 5G 8GB RAM  128GB,android
+198,Samsung Galaxy M04,android
+199,OPPO A77s,android
+200,Samsung Galaxy A13,android
+201,Motorola Edge 30 Ultra,android
+202,Xiaomi 13 Ultra 5G,android
+203,Motorola Moto G52 6GB RAM  128GB,android
+204,Poco M4 5G,android
+205,Nothing Phone 1 12GB RAM  256GB,android
+206,Samsung Galaxy A54 5G,android
+207,Tecno Pova 4,android
+208,Xiaomi Redmi Note 12 Pro 8GB RAM  256GB,android
+209,Apple iPhone 14 Pro Max 256GB,ios
+210,Vivo V25 Pro 12GB RAM  256GB,android
+211,Realme 9 5G 6GB RAM  128GB,android
+212,Realme 9 Pro 5G,android
+213,Lava Blaze 5G,android
+214,Honor X9a,android
+215,Google Pixel 7 Pro 5G,android
+216,Tecno Pova 3,android
+217,Vivo V23 Pro 5G,android
+218,Samsung Galaxy A04e,android
+219,Xiaomi Redmi K60,android
+220,Realme 9 Pro Plus 5G,android
+221,Realme 9i 5G 6GB RAM  128GB,android
+222,Motorola Edge 30 5G 8GB RAM  128GB,android
+223,Xiaomi Redmi Note 11 6GB RAM  64GB,android
+224,Vivo Y02,android
+225,POCO C31 4GB RAM  64GB,android
+226,Realme Narzo 50 5G,android
+227,Realme GT Neo 3T,android
+228,OPPO Reno 8 Pro 5G,android
+229,OnePlus 10 Pro 5G 12GB RAM  256GB,android
+230,iQOO 11 Pro 5G,android
+231,Vivo T1x 4G,android
+232,Xiaomi Redmi 10 Power,android
+233,OPPO A58,android
+234,Vivo T1 44W,android
+235,Xiaomi Mix Fold 2 5G,android
+236,Vivo Y16 3GB RAM  64GB,android
+237,OPPO Reno 8 Z,android
+238,Vivo Y75 4G,android
+239,Xiaomi Redmi Note 12 Explorer,android
+240,OPPO A57 4G 4GB RAM  64 GB,android
+241,Samsung Galaxy A75 5G,android
+242,Vivo T1 Pro 5G 8GB RAM  128GB,android
+243,Google Pixel 7 5G,android
+244,Xiaomi Redmi Note 11T 5G 6GB RAM  128GB,android
+245,OPPO F21s Pro 4G,android
+246,Apple iPhone 14 256GB,ios
+247,Motorola Moto G73,android
+248,Nubia Red Magic 8 Pro 5G,android
+249,Motorola Moto G31,android
+250,Tecno Phantom X2 Pro,android
+251,Infinix Zero 20,android
+252,iQOO Z6 5G 6GB RAM  128GB,android
+253,Xiaomi Redmi Note 11 Pro 5G,android
+254,OPPO A1 Pro,android
+255,Samsung Galaxy S22 FE 5G,android
+256,Samsung Galaxy S22 Plus 5G,android
+257,Vivo U3x,android
+258,Motorola Moto G23,android
+259,Poco M4 5G 6GB RAM  128GB,android
+260,Tecno Pova 5G,android
+261,POCO C31,android
+262,Apple iPhone XR2,ios
+263,Samsung Galaxy A53 8GB RAM  256GB,android
+264,Infinix Note 12 5G,android
+265,OPPO Reno7 Pro 5G,android
+266,OnePlus Ace 2,android
+267,Redmi Note 11 Pro 2023,android
+268,Nothing Phone 2,android
+269,Samsung Galaxy A32 8GB RAM  128GB,android
+270,Google Pixel 6 Pro,android
+271,Infinix Note 12i 2022,android
+272,Xiaomi Redmi 11 Prime 5G 6GB RAM  128GB,android
+273,Xiaomi Redmi Note 11 Pro Plus 5G 8GB RAM  128GB,android
+274,Xiaomi 12 Pro 5G,android
+275,Apple iPhone 13 Mini,ios
+276,Tecno Pova 3 6GB RAM  128GB,android
+277,Realme C31 4GB RAM  64GB,android
+278,Asus ROG Phone 6 Pro 5G,android
+279,Vivo V23e 5G,android
+280,Apple iPhone 14 Mini,ios
+281,Xiaomi Redmi Note 10T 5G,android
+282,iQOO Neo 7 SE 5G,android
+283,Samsung Galaxy A23 8GB RAM  128GB,android
+284,Xiaomi Redmi Note 12 Pro 8GB RAM  128GB,android
+285,Xiaomi Redmi Note 12 Turbo,android
+286,Infinix Note 12 Pro,android
+287,Infinix Hot 20 6GB RAM 128GB,android
+288,Apple iPhone 14 Pro Max 1TB,ios
+289,Samsung Galaxy M13,android
+290,Poco M4 Pro 5G 8GB RAM  128GB,android
+291,Xiaomi Redmi Note 10S 8GB RAM  128GB,android
+292,Realme C11 2021 4GB RAM  64GB,android
+293,Samsung Galaxy A23 5G 8GB RAM  128GB,android
+294,Motorola Edge 30 Ultra 12GB RAM  256GB,android
+295,OPPO F21s Pro,android
+296,Xiaomi 13 5G,android
+297,Xiaomi Redmi 10A,android
+298,Vivo Y01A,android
+299,Xiaomi Redmi K50i 8GB RAM  256GB,android
+300,Realme C30 3GB RAM  32GB,android
+301,Motorola Moto G51 5G,android
+302,Xiaomi Redmi 10 6GB RAM  128GB,android
+303,Xiaomi Mi 11 Lite NE 5G,android
+304,Samsung Galaxy Z Flip 3,unknown
+305,Apple iPhone 12 128GB,ios
+306,OnePlus 10T 16GB RAM  256GB,android
+307,Samsung Galaxy A13 4GB RAM  128GB,android
+308,OPPO Reno7 5G,android
+309,OnePlus 9RT 5G,android
+310,Samsung Galaxy A53 5G 8GB RAM  128GB,android
+311,Samsung Galaxy S22 Ultra 5G 12GB RAM  512GB,android
+312,Motorola Moto G71 5G,android
+313,itel S16 Pro,android
+314,Vivo Y100,android
+315,Samsung Galaxy M13 5G 4GB RAM  64GB,android
+316,POCO X5 GT,android
+317,Honor X9 5G,android
+318,iQOO 11 16GB RAM  256GB,android
+319,Samsung Galaxy Z Fold 4,android
+320,Royole FlexPai 2,unknown
+321,Apple iPhone 14 Plus 256GB,ios
+322,Samsung Galaxy A33 5G 8GB RAM  128GB,android
+323,Tecno Spark 9,android
+324,Google Pixel 6,android
+325,Xiaomi Redmi Note 10 Pro 6GB RAM  128GB,android
+326,Samsung Galaxy S21 Ultra,android
+327,Infinix Hot 20 Play,android
+328,Vivo T1x 6GB RAM  128GB,android
+329,OPPO F23 Pro,android
+330,iQOO Z6 Pro 5G 8GB RAM  128GB,android
+331,Samsung Galaxy A73 5G 8GB RAM  256GB,android
+332,Realme 9 5G SE 8GB RAM  128GB,android
+333,Poco F4 5G,android
+334,Infinix Note 12,android
+335,Samsung Galaxy A03 Core,android
+336,Motorola Moto G60,android
+337,OnePlus 9 Pro,android
+338,Xiaomi Redmi Note 11S,android
+339,Xiaomi Redmi 9 Activ,android
+340,Tecno Camon 19 Pro 5G,android
+341,Samsung Galaxy A04,android
+342,POCO M4 Pro 4G 6GB RAM  128GB,android
+343,OnePlus Nord N20 5G,android
+344,Apple iPhone 13 256GB,ios
+345,Oppo Find X6 Pro,android
+346,Vivo X90 Pro 5G,android
+347,Motorola Moto G53,android
+348,Motorola Moto G22,android
+349,Xiaomi Redmi 9i Sport,android
+350,Jio JioPhone Next,android
+351,Vivo Y93,android
+352,Xiaomi Redmi K60 Pro,android
+353,Realme C30s,android
+354,Vivo Y22s,android
+355,OPPO A77,android
+356,Xiaomi Redmi 10A Sport,android
+357,Poco F4 12GB RAM  256GB,android
+358,Realme 9 4G 8GB RAM  128GB,android
+359,Xiaomi 12T Pro 5G,android
+360,iQOO 9 5G,android
+361,Apple iPhone 12 Mini 128GB,ios
+362,Samsung Galaxy S24 Ultra,android
+363,OPPO Find N Flip,unknown
+364,OnePlus 10T 12GB RAM  256GB,android
+365,Tecno Spark 9 4GB RAM  64GB,android
+366,Samsung Galaxy S21 FE 5G 8GB RAM  256GB,android
+367,Xiaomi Redmi Note 11T 5G 8GB RAM  128GB,android
+368,Sony Xperia ProI,android
+369,Vivo V21 Pro,android
+370,Poco X3,android
+371,Samsung Galaxy S20 FE,android
+372,Google Pixel 4,android
+373,Samsung Galaxy S10 Plus,android
+374,Realme 11 Pro Plus,android
+375,OPPO F21 Pro 4G,android
+376,Realme GT 2 5G,android
+377,Samsung Galaxy S21,android
+378,Samsung Galaxy A71,android
+379,Vivo Y02s,android
+380,Letv Y2 Pro,android
+381,Tecno Spark 8C 4GB RAM  64GB,android
+382,iQOO Z6 5G 8GB RAM  128GB,android
+383,Vivo T1 Pro,android
+384,Realme 9 Pro Plus 5G 8GB RAM  128GB,android
+385,Samsung Galaxy A04s,android
+386,Realme 9i 6GB RAM  128GB,android
+387,Realme 8 5G 8GB RAM  128GB,android
+388,OPPO F19,android
+389,OPPO Find N2 Flip,unknown
+390,Samsung Galaxy M32 Prime Edition,android
+391,Oukitel WP19,android
+392,Realme 9 Pro 5G 8GB RAM  128GB,android
+393,Xiaomi Redmi Note 10 Lite 6GB RAM  128GB,android
+394,Samsung Galaxy A13 5G,android
+395,Xiaomi Redmi Note 11 5G,android
+396,itel P36,android
+397,Realme GT Neo 5,android
+398,Apple iPhone 15 Ultra,ios
+399,Poco C50,android
+400,Samsung Galaxy Note 30 Ultra 5G,android
+401,Realme 9i 4GB RAM  128GB,android
+402,Xiaomi Redmi Note 11T 5G,android
+403,Vivo X80 Pro 5G,android
+404,OPPO Reno 6 Pro 5G,android
+405,Xiaomi Mi 11i 5G,android
+406,Asus ROG Phone 7,android
+407,Oppo A77 5G,android
+408,Realme 9 5G SE,android
+409,Samsung Galaxy A03,android
+410,OnePlus Nord N200,android
+411,Xiaomi Mi 11X,android
+412,OPPO Reno 6,android
+413,Realme X50 Pro 5G 12GB RAM  256GB,android
+414,Xiaomi Redmi 10A 6GB RAM  128GB,android
+415,Redmi Note 12 Pro Speed Edition,android
+416,Apple iPhone 14 Pro 256GB,ios
+417,Motorola Moto G72,android
+418,Motorola Moto X30 Pro,android
+419,Xiaomi 12S Ultra,android
+420,Honor 70 5G,android
+421,OnePlus 10 Pro 5G 12GB RAM  512GB,android
+422,Vivo V23 Pro 5G 12GB RAM  256GB,android
+423,OPPO A55 4G 6GB RAM  128GB,android
+424,Xiaomi Mi 11T Pro 5G,android
+425,Nokia X50 5G,android
+426,Xiaomi Redmi Note 10,android
+427,Vertu Signature Touch,android
+428,Samsung Galaxy M32 Prime Edition 6GB RAM  128GB,android
+429,Tecno Camon 19 Pro Mondrian Edition,android
+430,Poco F5,android
+431,BLU F91 5G,android
+432,OPPO A16e,android
+433,Motorola Moto E32,android
+434,Xiaomi Redmi Note 11S 8GB RAM  128GB,android
+435,Apple iPhone SE 3 2022,ios
+436,Samsung Galaxy A52 8GB RAM  128GB,android
+437,Poco X3 Pro,android
+438,Xiaomi Redmi 9A,android
+439,Samsung Galaxy A32,android
+440,Motorola Moto G13,android
+441,Asus ROG Phone 6 Batman Edition,android
+442,Xiaomi Redmi Note 12 Pro Plus 6GB RAM  128GB,android
+443,Infinix Smart 6 HD,android
+444,Apple iPhone 15 Pro,ios
+445,Realme C35 4GB RAM  128GB,android
+446,Infinix Hot 12,android
+447,Vivo X80 5G,android
+448,Vivo Y53s,android
+449,Tecno Phantom X,android
+450,Samsung Galaxy M04 4GB RAM  128GB,android
+451,Redmi 12C,android
+452,Asus ZenFone 9,android
+453,Sony Xperia L5 5G,android
+454,iQOO 9 SE 5G 12GB RAM  256GB,android
+455,Tecno Spark 8 Pro,android
+456,Xiaomi Redmi 10 Prime,android
+457,Samsung Galaxy F22,android
+458,Xiaomi Mi Mix Alpha,android
+459,OPPO Reno 10 Pro,android
+460,Nubia Z50,android
+461,Samsung Galaxy F13 4GB RAM  128GB,android
+462,Nokia G11 Plus,android
+463,Infinix Hot 12 Play,android
+464,Vivo T2 5G,android
+465,OPPO Reno7 Z 5G,android
+466,Xiaomi Mi 11 Lite NE 5G 8GB RAM  128GB,android
+467,Realme Narzo 50i,android
+468,Infinix Zero X Pro,android
+469,Samsung Galaxy M32,android
+470,Samsung Galaxy A82 5G,android
+471,Xiaomi Poco F1,android
+472,Vivo Y25,android
+473,Lyf Earth 1,android
+474,Motorola Moto E13,android
+475,Tecno Pop 6 Pro,android
+476,Itel A24 Pro,android
+477,Vivo X Fold Plus,android
+478,Huawei Mate 50 RS Porsche Design,other
+479,Samsung Galaxy F63,android
+480,iQOO Z6 4G 6GB RAM  128GB,android
+481,Sony Xperia 5 II,android
+482,Vivo Y3 4GB RAM  128GB,android
+483,Sony Xperia 1 IV 12GB RAM  512GB,android
+484,Tecno Pova 4 Pro,android
+485,Huawei Nova 10 SE,android
+486,Vivo T1x 4GB RAM  128GB,android
+487,Nubia Red Magic 7S Pro,android
+488,Motorola Moto E32s 4GB RAM  64GB,android
+489,iQOO Neo 6 5G 12GB RAM  256GB,android
+490,Samsung Galaxy A15,android
+491,POCO X4 GT 5G,android
+492,Realme Narzo 50 5G 4GB RAM  128GB,android
+493,Vivo Y77 5G,android
+494,Honor 60 SE 5G,android
+495,Xiaomi Redmi 11 Prime,android
+496,Realme C31,android
+497,Motorola Moto G31 6GB RAM 128GB,android
+498,Samsung Galaxy Z Flip 4 5G,unknown
+499,OnePlus 6 8GB RAM  128GB,android
+500,Google Pixel 2 XL,android
+501,Xiaomi Redmi A1 Plus,android
+502,Honor 70 5G 8GB RAM  256GB,android
+503,Realme Narzo 50 6GB RAM  128GB,android
+504,Vivo Y15s,android
+505,Samsung Galaxy M32 6GB RAM  128GB,android
+506,Samsung Galaxy F42 5G,android
+507,Realme Q5 5G,android
+508,POCO M3 Pro 5G,android
+509,Google Pixel 5,android
+510,OnePlus 12 Pro,android
+511,Xiaomi Redmi Note 12 Discovery Edition,android
+512,Samsung Galaxy M13 4GB RAM  64GB,android
+513,Oppo Reno 8 Pro 8GB RAM  256GB,android
+514,Vivo Y78 5G,android
+515,iQOO Z6 4G,android
+516,OPPO A76,android
+517,Realme 9 Pro Plus 5G 8GB RAM  256GB,android
+518,Vivo Y01,android
+519,Motorola Moto Edge S30 5G,android
+520,Realme GT 2 Pro 5G,android
+521,Apple iPhone 13 Pro 256GB,ios
+522,Vivo Y73 2021,android
+523,Samsung Galaxy F14,android
+524,Vivo V20,android
+525,Xiaomi Redmi Note 9 Pro,android
+526,OnePlus 10R Prime Edition,android
+527,Google Pixel 6 Pro 12GB RAM  256GB,android
+528,Nokia C31,android
+529,Infinix Hot 12 Pro 8GB RAM 128GB,android
+530,Poco M5,android
+531,Xiaomi Redmi 10C 4GB RAM  128GB,android
+532,ZTE Axon 40 Ultra 5G,android
+533,Xiaomi 12 Pro 5G 12GB RAM  256GB,android
+534,OPPO K10 8GB RAM  128GB,android
+535,Huawei Nova 9 SE,android
+536,Samsung Galaxy S22 5G 8GB RAM  256GB,android
+537,Lenovo Legion Y90,android
+538,Vivo Y55 5G,android
+539,Nokia X100 5G,android
+540,Realme 8s 5G 8GB RAM  128GB,android
+541,Realme 8s 5G,android
+542,Nokia X60 Pro 5G,android
+543,Poco X5,android
+544,Xiaomi Redmi Note 10 Pro Max 6GB RAM  128GB,android
+545,iQOO 7 12GB RAM  256GB,android
+546,Realme 8,android
+547,Samsung Galaxy S20,android
+548,Xiaomi Redmi K60E,android
+549,Motorola Moto E32s,android
+550,OnePlus Nord 3T 5G,android
+551,OPPO F23 Pro Plus 5G,android
+552,Poco F5 Pro,android
+553,OPPO A16e 4GB RAM  64GB,android
+554,POCO M4 Pro 4G 8GB RAM  128GB,android
+555,Realme Narzo 50A,android
+556,Asus ROG Phone 5s 5G,android
+557,Realme GT Master Edition 5G,android
+558,Samsung Galaxy A32 5G,android
+559,Nubia Red Magic 8 Pro Plus,android
+560,Samsung Galaxy Z Fold 3,android
+561,LG Wing 5G,unknown
+562,Xiaomi Redmi Note 9 Pro Max,android
+563,Samsung Galaxy A52,android
+564,Vivo Y71,android
+565,Samsung Galaxy A04e 3GB RAM  64GB,android
+566,Oppo A56s,android
+567,Oppo Reno 8T 4G,android
+568,OPPO Reno 10,android
+569,Nokia G60,android
+570,OPPO A77 4GB RAM  128 GB,android
+571,Motorola Edge 40 Pro 5G,android
+572,Oppo K10x 5G,android
+573,iQOO Z6 Pro 5G 12GB RAM  256GB,android
+574,Nokia G21 6GB RAM  128GB,android
+575,Samsung Galaxy A13 6GB RAM  128GB,android
+576,OPPO A16K 4GB RAM  64GB,android
+577,Xiaomi Redmi 10C,android
+578,Tecno Spark 9 Pro,android
+579,Realme GT Neo 3 5G,android
+580,Xiaomi 11i HyperCharge 5G,android
+581,iQOO Neo 6 SE 5G,android
+582,iQOO 9 Pro 5G,android
+583,Realme Narzo 50i 4GB RAM  64GB,android
+584,Xiaomi Redmi 9 Activ 6GB RAM  128GB,android
+585,Jio JioPhone Next 3GB RAM  32GB,android
+586,Xiaomi Redmi Note 8 2021,android
+587,Xiaomi Redmi Note 10 5G,android
+588,Vivo Y20G,android
+589,Samsung Galaxy A22 5G,android
+590,Vivo V21,android
+591,Realme 7 Pro 8GB RAM  128GB,android
+592,OnePlus Nord Lite,android
+593,Samsung Galaxy S20 Ultra 5G,android
+594,Apple iPhone 11 Pro Max,ios
+595,Apple iPhone 7s,ios
+596,Sony Xperia Ace IV,android
+597,Samsung Galaxy A04e 4GB RAM  128GB,android
+598,Xiaomi Redmi Note 12 4G,android
+599,Oukitel WP21,unknown
+600,Vivo V28,android
+601,Poco F4 5G 8GB RAM  128GB,android
+602,Xiaomi Redmi Note 11T Pro 5G,android
+603,Realme Narzo 50 Pro 5G 8GB RAM  128GB,android
+604,Vivo T1 44W 8GB RAM  128GB,android
+605,Xiaomi Redmi Note 11S 6GB RAM  128GB,android
+606,Lava Agni 5G,android
+607,Realme 8i 6GB RAM  128GB,android
+608,OPPO A55 4G,android
+609,POCO M3 Pro 5G 6GB RAM  128GB,android
+610,Realme C21Y,android
+611,OPPO A16,android
+612,Vivo V21 5G,android
+613,Apple iPhone 12 Pro 512GB,ios
+614,Sony Xperia 1 II,android
+615,Motorola Edge Plus,android
+616,Samsung Galaxy Note 20,android
+617,Samsung Galaxy A12,android
+618,Xiaomi Redmi Note 12 Pro 4G,android
+619,Realme GT Neo 3T 8GB RAM  128GB,android
+620,Realme C30s 4GB RAM  64GB,android
+621,Apple iPhone 14 512GB,ios
+622,iQOO 9T 5G,android
+623,Tecno Camon 19 Pro,android
+624,OnePlus Nord 2 Lite 5G,android
+625,Samsung Galaxy S22 Ultra 5G 8GB RAM  128GB,android
+626,POCO F4 GT 5G,android
+627,Xiaomi 11T Pro 5G 12GB RAM  256GB,android
+628,Vivo Y10,android
+629,Samsung Galaxy A83 5G,android
+630,Vivo Y33s,android
+631,Huawei Mate 40 Pro 4G,other
+632,Micromax IN 2B,android
+633,Asus ROG Phone 6,android
+634,Realme X7 Max,android
+635,Realme 8 5G,android
+636,OPPO A55 5G,android
+637,Xiaomi Redmi 9,android
+638,Apple iPhone SE 2020,ios
+639,Letv Y1 Pro Plus,android
+640,OnePlus Nord 5,android
+641,Vivo Y73T,android
+642,OPPO Reno 9 Z,android
+643,Vivo V25e,android
+644,Infinix Hot 12 Pro,android
+645,Realme Narzo 50 5G 4GB RAM  64GB,android
+646,itel Vision 3,android
+647,OPPO A96 4G,android
+648,Xiaomi Redmi Note 11E 5G,android
+649,Honor Magic 4 Pro Plus 5G,android
+650,Tecno Spark 9T,android
+651,Infinix Smart 6,android
+652,Realme C25Y 4GB RAM  64GB,android
+653,Samsung Galaxy A12 6GB RAM  128GB,android
+654,Tecno Camon 19,android
+655,Xiaomi Redmi Note 10 Pro 5G,android
+656,Xiaomi Mi 11X 5G 8GB RAM  128GB,android
+657,Xiaomi Redmi Note 10 6GB RAM  128GB,android
+658,Xiaomi Redmi Note 10 Pro Max,android
+659,Xiaomi Mi 10T 5G,android
+660,LG Velvet 5G,android
+661,Motorola One Fusion Plus,android
+662,LG V60 ThinQ,unknown
+663,Samsung Galaxy Note 10 Lite,android
+664,Samsung Galaxy Note 10 Plus 5G,android
+665,iQOO Neo 7 Racing Edition,android
+666,Samsung Galaxy A04s 4GB RAM  128GB,android
+667,Vivo Y35 5G,android
+668,Vivo Y02 2GB RAM  32GB,android
+669,itel Vision 3 2GB RAM  32GB,android
+670,Xiaomi Redmi Note 11R,android
+671,Poco M6 Pro,android
+672,OPPO A97 5G,android
+673,Samsung Galaxy A24,android
+674,Infinix Note 13 Pro,android
+675,Honor Play 30,android
+676,Infinix Smart 6 Plus,android
+677,Sony Xperia 5 IV 5G,android
+678,Nubia Z40 Pro 5G,android
+679,Nokia G21,android
+680,Xiaomi 12 Lite 5G,android
+681,Oppo Find N 5G,android
+682,Apple iPhone 13 Pro Max 256GB,ios
+683,Vivo Y21s,android
+684,OPPO F19s,android
+685,Samsung Galaxy M21 2021,android
+686,OPPO F19 Pro,android
+687,OPPO X 2021,android
+688,OnePlus Nord N10,android
+689,Gionee M12 Pro,android
+690,Poco M2,android
+691,OPPO F17 Pro,android
+692,Motorola Moto G 5G,android
+693,Samsung Galaxy A50s,android
+694,Samsung Galaxy Note 10 Plus,android
+695,Vivo Y15,android
+696,Vivo S1 Pro,android
+697,Vivo T3 Pro,android
+698,Vivo V21s,android
+699,Asus ROG Phone 6D Ultimate,unknown
+700,Motorola Moto Edge 30 Neo,android
+701,Xiaomi 12T,android
+702,Huawei Mate 50 Pro 5G,other
+703,Realme C32,android
+704,Huawei Mate Xs 2,unknown
+705,iQOO Z7 Pro 5G,android
+706,Apple iPhone 15,ios
+707,Infinix Note 11S 8GB RAM  128GB,android
+708,Tecno Spark 8 4GB RAM  64GB,android
+709,Oppo A56 5G,android
+710,Vivo X80 Pro Plus 5G,android
+711,Xiaomi Redmi 10 Prime 6GB RAM  128GB,android
+712,Huawei Nova 9,other
+713,Tecno Pop 5 Go,android
+714,Huawei P50 Pro 4G,other
+715,Xiaomi Redmi K50 5G,android
+716,Nokia C01 Plus,android
+717,Realme Q3,android
+718,OPPO Reno 6 Pro Plus 5G,android
+719,Motorola Edge S,android
+720,Oppo Find X3 Pro,android
+721,Poco M3,android
+722,itel S16,android
+723,Vivo V20 Pro,android
+724,Xiaomi Mi 10T Pro 5G,android
+725,Vivo V19 8GB RAM  256GB,android
+726,Samsung Galaxy S20 5G,android
+727,Vivo U3,android
+728,Oppo K5 8GB RAM  128GB,android
+729,Realme XT,android
+730,Vivo Y12 3GB RAM  64GB,android
+731,Xiaomi Poco F1 6GB RAM  128GB,android
+732,Poco C50 3GB RAM  32GB,android
+733,iKall Z19,android
+734,Xiaomi Redmi K60 Gaming Edition,android
+735,Vivo S17 Pro,android
+736,Honor 80 Pro Plus,android
+737,Apple iPhone SE 4,ios
+738,Tecno Pova Neo 5G,android
+739,Apple iPhone 14 Pro Max 512GB,ios
+740,Google Pixel 8,android
+741,Vivo T2x 5G,android
+742,Motorola Moto G52 5G,android
+743,Motorola Edge 40 5G,android
+744,Vivo X Note 5G 12GB RAM  512GB,android
+745,Realme GT 2 Pro 5G 12GB RAM  256GB,android
+746,Vivo Y15C,android
+747,Honor X8,android
+748,Samsung Galaxy A03 4GB RAM  64GB,android
+749,Samsung Galaxy S22 Plus 5G 8GB RAM  256GB,android
+750,Vivo Y33T,android
+751,Xiaomi 11i 5G 8GB RAM  128GB,android
+752,Oppo Find X5 Pro 5G,android
+753,Tecno Spark Go 2022,android
+754,Vivo Y21e,android
+755,Xiaomi Redmi 9A Sport,android
+756,Apple iPhone 13 Pro Max 1TB,ios
+757,Vivo Y12G 3GB RAM  64GB,android
+758,Vivo V23e,android
+759,Samsung Galaxy F22 6GB RAM  128GB,android
+760,Xiaomi 12 Ultra 5G,android
+761,Micromax IN 2C,android
+762,Samsung Galaxy A03s,android
+763,OPPO A54 4GB RAM  128GB,android
+764,Xiaomi Redmi 20X,android
+765,Xiaomi Mi Mix Fold,android
+766,Realme Narzo 30 5G,android
+767,OPPO A54,android
+768,Oppo A15s 4GB RAM  128GB,android
+769,itel A56,android
+770,Xiaomi Redmi 9 Power,android
+771,Samsung Galaxy S21 Plus,android
+772,POCO M2 Pro,android
+773,Samsung Galaxy S20 Plus,android
+774,Realme 6 Pro,android
+775,Huawei P40 Pro,android
+776,Vivo Y11 2019,android
+777,Vivo V15 Pro 8GB RAM 128GB,android
+778,Vivo Y95,android
+779,Vivo V11i,android
+780,Samsung Galaxy S9 Plus 128GB,android
+781,Realme GT Neo 4T,android
+782,Vivo Y53t,android
+783,Samsung Galaxy A04 4GB RAM  128GB,android
+784,Leitz Phone 2,android
+785,Xiaomi Redmi K60i,android
+786,Infinix Hot 20S,android
+787,Realme GT Neo 3T 8GB RAM  256GB,android
+788,Apple iPhone 14 Plus 512GB,ios
+789,Apple iPhone 14 Pro 1TB,ios
+790,Xiaomi Redmi 13 Prime 5G,android
+791,Xiaomi Redmi 11 Prime 6GB RAM  128GB,android
+792,Nokia C21 Plus 4GB RAM  64GB,android
+793,OnePlus Nord N300,android
+794,Tecno Camon 19 Neo,android
+795,Realme Narzo 50i Prime,android
+796,Xiaomi Redmi K50 Ultra 5G,android
+797,OPPO A57 4G,android
+798,Infinix Note 12 6GB RAM  128GB,android
+799,Samsung Galaxy S23 FE 5G,android
+800,Samsung Galaxy M51s 5G,android
+801,Vivo X80 5G 12GB RAM  256GB,android
+802,Poco X6 Pro 5G,android
+803,Infinix Note 12 G96,android
+804,Samsung Galaxy M14,android
+805,Vivo T2 Pro 5G,android
+806,Xiaomi Redmi 10 Prime Plus 5G,android
+807,Xiaomi Redmi Note 11 Pro 4G,android
+808,Realme Narzo 50A Prime,android
+809,Vivo Y55s 5G,android
+810,Vivo Y21T,android
+811,Gionee K10,android
+812,Xiaomi Redmi Note 10 Lite 4GB RAM  128GB,android
+813,Apple iPhone 13 512GB,ios
+814,Infinix Hot 11S,android
+815,Realme GT Explorer Master Edition,android
+816,Xiaomi Mi 12 5G,android
+817,CAT S22 Flip,unknown
+818,Xiaomi Mi 11 Lite 8GB RAM  128GB,android
+819,Realme Q3i 5G,android
+820,Xiaomi Mi 11X Pro,android
+821,Lenovo Legion Pro 2,android
+822,Samsung Galaxy M62,android
+823,Realme Q2i,android
+824,Apple iPhone 12 Pro 256GB,ios
+825,Xiaomi Redmi 9i 4GB RAM  128GB,android
+826,Realme 6 6GB RAM  64GB,android
+827,Samsung Galaxy A01 Core,android
+828,Oppo Reno 5,android
+829,Oppo A31 2020 6GB RAM  128GB,android
+830,Sony Xperia 10 II,android
+831,Vivo Y91c,android
+832,Huawei Nova 7i,android
+833,Vivo Y19,android
+834,Vivo U3 6GB RAM  64GB,android
+835,Xiaomi Redmi Note 9,android
+836,Xiaomi Redmi 8 4GB RAM  64GB,android
+837,Motorola One Macro,android
+838,Google Pixel 3a XL,android
+839,Samsung Galaxy A40,android
+840,Samsung Galaxy S10 5G,android
+841,Huawei Honor 9N,android
+842,Xiaomi Redmi Note 4,android
+843,Doogee V Max,android
+844,Huawei Nova Y61,other
+845,iQOO Z9,android
+846,Vivo V29,android
+847,Poco M5 6GB RAM  128GB,android
+848,Nokia X30,android
+849,Tecno Pova Neo 2,android
+850,Vivo Y15C 3GB RAM  64GB,android
+851,Huawei Nova 10,other
+852,Huawei Nova Y90,other
+853,Samsung Galaxy A92 5G,android
+854,Infinix Note 12 VIP,android
+855,OnePlus Nord 4 5G,android
+856,Realme Narzo 50A Prime 4GB RAM  128GB,android
+857,OnePlus Ace 5G,android
+858,iQOO 9 5G 12GB RAM  256GB,android
+859,Xiaomi Redmi Note 12T 5G,android
+860,Oppo A96 5G,android
+861,Royole FlexPai 3 5G,unknown
+862,Tecno Camon 18,android
+863,Tecno Phantom X Pro,android
+864,Tecno Spark 8T,android
+865,Realme GT Neo2 5G,android
+866,Sony Xperia 10 III Lite 5G,android
+867,Realme G1,android
+868,Tecno Pova 2,android
+869,Poco X4,android
+870,Motorola Moto G40 Fusion,android
+871,OnePlus 9T,android
+872,Realme 8 8GB RAM  128GB,android
+873,Realme Narzo 30 Pro 5G 8GB RAM 128GB,android
+874,Itel A23 Pro,android
+875,Samsung Galaxy S21 Ultra 5G 12GB RAM  128GB,android
+876,Oppo Reno 5 Pro 5G,android
+877,OnePlus Nord SE,android
+878,Samsung Galaxy M12,android
+879,OnePlus Nord N100,android
+880,Apple iPhone 12 Mini 256GB,ios
+881,Apple iPhone 12 256GB,ios
+882,OPPO A15,android
+883,Xiaomi Redmi Note 9 Pro 4GB RAM  128GB,android
+884,Oppo A12,android
+885,Realme X50 Pro 5G 8GB RAM  128GB,android
+886,Samsung Galaxy S20 Plus 5G,android
+887,Xiaomi Redmi K20 Pro Signature Edition,android
+888,Xiaomi Redmi Note 8 Pro,android
+889,Realme A1,android
+890,OPPO A73,android
+891,Lyf Earth 2,android
+892,Apple iPhone 15 Plus,ios
+893,Vivo Y55s 2023,android
+894,Lava Blaze NXT,android
+895,Tecno Camon 20 Premier,android
+896,OPPO Reno 8 House of Dragon Edition,android
+897,Motorola Moto E22s,android
+898,Xiaomi Redmi A1 Plus 3GB RAM  32GB,android
+899,Infinix Hot 20i,android
+900,Tecno Spark 9 3GB RAM  64GB,android
+901,ZTE Axon 30S,android
+902,Honor X6,android
+903,Xiaomi Civi 2,android
+904,TCL Ion X,android
+905,Samsung Galaxy Z Fold 4 12GB RAM  1TB,android
+906,Nothing Phone 1 Lite,android
+907,Motorola Moto Edge X30 Pro,android
+908,OnePlus Ace Pro,android
+909,Realme GT 2 Explorer Master Edition,android
+910,Samsung Galaxy M35,android
+911,Samsung Galaxy A05,android
+912,Infinix Note 12 Turbo,android
+913,POCO F5 GT 5G,android
+914,iQOO Z8 5G,android
+915,Vivo Y55 4G,android
+916,Vivo X Fold 5G 12GB RAM  512GB,android
+917,Oppo K10 Pro 5G,android
+918,Tecno Spark 8C,android
+919,iQOO Z7 5G,android
+920,Infinix Note 11 6GB RAM  128GB,android
+921,Xiaomi 11i HyperCharge 5G 8GB RAM  128GB,android
+922,Samsung Galaxy F42 5G 8GB RAM  128GB,android
+923,Apple iPhone 13 Pro 1TB,ios
+924,Nubia Red Magic 6S 5G,android
+925,Micromax IN 2B 6GB RAM  64GB,android
+926,Nokia X60 5G,other
+927,Vivo Y12a,android
+928,Oppo Reno 5A,android
+929,Poco F3 GT,android
+930,Honor 50,android
+931,OPPO A54 6GB RAM  128GB,android
+932,Realme 8i,android
+933,iQOO 7 Legend,android
+934,Realme C11 2021,android
+935,Samsung Galaxy A22,android
+936,Realme GT 5G,android
+937,Google Pixel 5A,android
+938,Samsung Galaxy F12,android
+939,Samsung Galaxy F41 6GB RAM  128GB,android
+940,Samsung Galaxy A21s 6GB RAM  128GB,android
+941,Xiaomi Redmi 9A 6GB RAM  128GB,android
+942,Vivo V20 SE,android
+943,OPPO A53 2020 6GB RAM  128GB,android
+944,Realme Narzo 20,android
+945,itel Vision 1 3GB RAM  32GB,android
+946,Realme C11,android
+947,Xiaomi Mi 10 5G 8GB RAM  256GB,android
+948,Vivo Y21 2020,android
+949,OnePlus Z,android
+950,Sharp Aquos R5G,android
+951,Huawei Mate 30 RS Porsche Design,android
+952,Samsung Galaxy A11,android
+953,Realme C2,android
+954,Huawei Mate X,unknown
+955,Samsung Galaxy A9 Pro 2019,android
+956,Samsung Galaxy A7 2018,android
+957,Vivo Y55S,android
+958,Poco C55,android
+959,Blackview BV5200 Pro,android
+960,Honor X7a,android
+961,OPPO A58x,android
+962,Doogee S99,android
+963,Lava X3,android
+964,Motorola Edge 40 Fusion,android
+965,iKall Z18,android
+966,Oukitel WP9,android
+967,Xiaomi 14,android
+968,Motorola ThinkPhone,android
+969,Xiaomi Civi 3,android
+970,Realme Narzo 50i Prime 4GB RAM  64GB,android
+971,Oppo Find X6,android
+972,itel A23s,android
+973,Google Pixel 8 Pro,android
+974,Vivo X Fold 2,android
+975,Motorola Moto Edge S30 Pro,android
+976,Honor X8 5G,android
+977,POCO X4 GT 5G 8GB RAM  256GB,android
+978,Motorola Moto G91 5G,android
+979,Samsung Galaxy M52s 5G,android
