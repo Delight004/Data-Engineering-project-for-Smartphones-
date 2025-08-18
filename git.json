@@ -1,0 +1,32 @@
+[
+    {
+        "p_rel_url":"Delight004/Data-Engineering-project-for-Smartphones-/refs/heads/master/dataset/clean_data/brand_dim.csv",
+        "p_sink_folder":"brand_dim",
+        "p_file_name":"brand_dim.csv"
+    },
+    {
+        "p_rel_url":"Delight004/Data-Engineering-project-for-Smartphones-/refs/heads/master/dataset/clean_data/display_dim.csv",
+        "p_sink_folder":"display_dim",
+        "p_file_name":"display_dim.csv"
+    },
+    {
+        "p_rel_url":"Delight004/Data-Engineering-project-for-Smartphones-/refs/heads/master/dataset/clean_data/features_dim.csv",
+        "p_sink_folder":"features_dim",
+        "p_file_name":"features_dim.csv"
+    },
+    {
+        "p_rel_url":"Delight004/Data-Engineering-project-for-Smartphones-/refs/heads/master/dataset/clean_data/model_dim.csv",
+        "p_sink_folder":"model_dim",
+        "p_file_name":"model_dim.csv"
+    },
+    {
+        "p_rel_url":"Delight004/Data-Engineering-project-for-Smartphones-/refs/heads/master/dataset/clean_data/processor_dim.csv",
+        "p_sink_folder":"processor_dim",
+        "p_file_name":"processor_dim.csv"
+    },
+    {
+        "p_rel_url":"Delight004/Data-Engineering-project-for-Smartphones-/refs/heads/master/dataset/clean_data/smartphone_fact.csv",
+        "p_sink_folder":"smartphone_fact",
+        "p_file_name":"smartphone_fact.csv"
+    }
+]
